@@ -1,5 +1,3 @@
-
-
 import 'dart:io';
 
 import 'package:device_info_plus/device_info_plus.dart';
@@ -7,8 +5,6 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:permission_handler/permission_handler.dart';
-
-
 
 class NotificationController extends GetxController {
   final storage = GetStorage();
