@@ -11,8 +11,17 @@
 - URL Launcher for opening articles in external browsers when needed
 
 ## Screenshots
-<img alt="splash.png" src="splash.png" width="300"/>
-<img alt="signUp1.png" src="signUp1.png" width="300"/>
-
-<img alt="main_screen_with_network.png" src="main_screen_with_network.png" width="300"/>
-<img alt="detailed_news_screen.png" src="detailed_news_screen.png" width="300"/>
+<table>
+<tr>
+<th><img alt="splash.png" src="splash.png" width="300"/></th>
+<th><img alt="signUp1.png" src="signUp1.png" width="300"/></th>
+<th><img alt="main_screen_with_network.png" src="main_screen_with_network.png" width="300"/></th>
+<th><img alt="detailed_news_screen.png" src="detailed_news_screen.png" width="300"/></th>
+</tr>
+<tr>
+  <th>Splash Screen</th>
+    <th>Sign up screen</th>
+    <th>Main Screen</th>
+    <th>Detailed news Screen</th>
+</tr>
+</table>
